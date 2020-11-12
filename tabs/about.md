@@ -8,4 +8,5 @@ title: About
 # MIT License
 ---
 
-> **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page.
+Un piccolo sito creato come regalo per il Clan Eirene-Poioi del Trani 1.
+Fatto con 💚 da [Beppe](https://github.com/llamandtea)
