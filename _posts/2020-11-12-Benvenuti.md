@@ -3,6 +3,7 @@ title: Benvenuti
 date: 2020-11-12 08:00:00 +0000
 categories: [Informazioni]
 tags: [sito, clan]
+pin: true
 ---
 
 # Benvenuti 👋
