@@ -1,5 +1,5 @@
 ---
-title: Capitolo
+title: Il Capitolo
 date: 2020-11-12 08:00:00 +0000
 categories: [Vita di Clan]
 tags: [clan, anno, servizio]
