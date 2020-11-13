@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://eirene-poioi.github.io/eirene-poioi.github.io/sitemap.xml
